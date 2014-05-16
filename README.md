@@ -2,7 +2,8 @@
 ---
 
 
--This is the easiest problem statement of the site codechef.com .And so it is my first succesful submmission .Starting off .
+* This is the easiest problem statement of the site codechef.com .And so it is my first succesful submmission .
+* Starting off with the easiest problem .
 
 ***
 ###The Problem Statement is as follows .
